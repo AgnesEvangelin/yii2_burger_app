@@ -1,1 +1,2 @@
-# yii2_burger_app
+# burger-app
+Burger App
